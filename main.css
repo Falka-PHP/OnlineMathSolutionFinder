@@ -1,0 +1,27 @@
+body{
+
+}
+
+form{
+    width: 80%;
+
+}
+
+.form-div{
+
+display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+form>div{
+    display: flex;
+    padding: 10px;
+}
+form>div>*{
+    padding: 7px 10px;
+}
+form>button{
+    margin: 10px;
+
+}
